@@ -18,11 +18,6 @@ Compiling/Running:
 
 This program was written in python, and does not need to be compiled.
 Simply extract this zip somewhere with access to python (2.7), if you haven't already done so, and run (from where you extracted this zip):
+I don't call anything fancy, so this should work in any python 2.7 environment.
 
       python main.py </path/to/training file> </path/to/test file>
-
-
-Required Environment:
---------------------
-
-I don't call anything fancy, so this should work in any python 2.7 environment.  I wrote this on debian linux, and tested it in UTD's cs2 environment, so should you not have access to python, you can get it from the school's cs2 environment.
